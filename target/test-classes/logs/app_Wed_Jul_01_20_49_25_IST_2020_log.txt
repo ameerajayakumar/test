@@ -1,0 +1,1 @@
+INFO    2020-07-01 20:49:25,171 [main] testbrowser.TestBrowserMaven  - Helloo
